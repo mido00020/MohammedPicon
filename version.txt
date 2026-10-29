@@ -1,3 +1,3 @@
-1.5.1
-enigma2-plugin-extensions-mohammedpicon_1.5.1_all.ipk
-01e91d84adbcf16f39ba98353564e3731958b50da8b5c9f0af9980c89f755287
+1.5.2
+enigma2-plugin-extensions-mohammedpicon_1.5.2_all.ipk
+0dc276891d17a07bf85eb3443aebfa2b1954888275d169a10c7d246a6248e023
