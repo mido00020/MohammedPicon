@@ -20,13 +20,11 @@
 
 ## 📦 Install (telnet)
 
-Run these three commands one by one:
+Run this one command:
 
-wget -O /tmp/mohammedpicon.ipk https://raw.githubusercontent.com/mido00020/MohammedPicon/main/enigma2-plugin-extensions-mohammedpicon_1.3_all.ipk
+wget -q -O - https://raw.githubusercontent.com/mido00020/MohammedPicon/main/installer.sh | sh
 
-opkg install /tmp/mohammedpicon.ipk
-
-killall -9 enigma2
+It downloads the plugin, installs it and restarts the GUI.
 
 ## 🎛 Use
 
