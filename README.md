@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Enigma2-Plugin-3a6fc4?style=for-the-badge" alt="Enigma2">
-  <img src="https://img.shields.io/badge/Version-1.4.3-2fd06b?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.5.0-2fd06b?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Arabic-English-e8a628?style=for-the-badge" alt="Languages">
   <img src="https://img.shields.io/badge/Styles-Glass%20%7C%20Colour%20%7C%20Solid%20%7C%20Clear-e84a4a?style=for-the-badge" alt="Styles">
 </p>
