@@ -1,6 +1,6 @@
 #!/bin/sh
 # Mohammed Picon - direct installer
-URL="https://raw.githubusercontent.com/mido00020/MohammedPicon/main/enigma2-plugin-extensions-mohammedpicon_1.4.1_all.ipk"
+URL="https://raw.githubusercontent.com/mido00020/MohammedPicon/main/enigma2-plugin-extensions-mohammedpicon_1.4.2_all.ipk"
 FILE="/tmp/mohammedpicon.ipk"
 echo "Downloading Mohammed Picon..."
 rm -f "$FILE"
